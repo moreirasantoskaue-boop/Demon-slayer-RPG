@@ -3,8 +3,8 @@
 
 
  body{
-    background-color: rebeccapurple;
-    color:black;
+    background-color: black;
+    color:whitesmoke;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@
 
  button {
 
-    background-color: greenyellow;
+    background-color: rgb(74, 45, 9);
     color: black;
     padding: 20px;
 }
