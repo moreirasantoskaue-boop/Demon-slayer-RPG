@@ -4,7 +4,7 @@
 
  body{
     background-color: black;
-    color:whitesmoke;
+    color:rgb(255, 1, 179);
     display: flex;
     justify-content: center;
     align-items: center;
